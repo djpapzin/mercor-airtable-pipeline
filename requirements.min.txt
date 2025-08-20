@@ -1,3 +1,0 @@
-pyairtable
-python-dotenv
-openai

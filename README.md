@@ -64,6 +64,8 @@ To run this project locally:
     AIRTABLE_BASE_ID="appXXXXXXXXXXXXXX"
     OPENAI_API_KEY="not-required-for-mock-version"
     ```
+    
+    Note: A template is provided in `.env.example`. Copy it to `.env` and fill in your values.
 
 6.  **Prepare Data in Airtable:**
     -   Ensure you have at least one fully linked applicant record in your Airtable base.

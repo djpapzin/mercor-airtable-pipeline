@@ -1,5 +1,11 @@
 # Mercor Interview Task: Airtable & Python Automation Pipeline
 
+[![Python 3.8+](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
+[![Airtable API](https://img.shields.io/badge/Airtable-API-18BFFF?logo=airtable&logoColor=white)](https://airtable.com/developers/web/api)
+[![Last Commit](https://img.shields.io/github/last-commit/djpapzin/mercor-airtable-pipeline)](https://github.com/djpapzin/mercor-airtable-pipeline/commits/main)
+[![Issues](https://img.shields.io/github/issues/djpapzin/mercor-airtable-pipeline)](https://github.com/djpapzin/mercor-airtable-pipeline/issues)
+[![Stars](https://img.shields.io/github/stars/djpapzin/mercor-airtable-pipeline?style=social)](https://github.com/djpapzin/mercor-airtable-pipeline/stargazers)
+
 This project is a comprehensive solution for the Mercor Tooling & AI Workflows Assessment. It demonstrates a robust data pipeline for collecting, processing, enriching, and evaluating contractor applications using Airtable as a database and local Python scripts for automation.
 
 ## Core Features

@@ -41,8 +41,8 @@ To run this project locally:
 
 2.  **Clone the Repository:**
     ```bash
-    git clone <your-repository-url>
-    cd <repository-folder>
+    git clone https://github.com/djpapzin/mercor-airtable-pipeline.git
+    cd mercor-airtable-pipeline
     ```
 
 3.  **Set Up a Virtual Environment:**
@@ -80,4 +80,4 @@ The script will process the pending applicant and update the Airtable base in re
 
 For a deeper dive into the system design, table schemas, and workflows, see the detailed documentation:
 
-- [documentation.md](documentation.md)
+- [documentation.md](https://github.com/djpapzin/mercor-airtable-pipeline/blob/main/documentation.md)

@@ -17,6 +17,8 @@ venv/
 # Environment files (DO NOT COMMIT SECRETS)
 .env
 .env.*
+# Allow the tracked example env template
+!.env.example
 *.env
 
 # IDE & OS
